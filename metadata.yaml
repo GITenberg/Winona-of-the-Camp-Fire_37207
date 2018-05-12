@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2463
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Widdemer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37207#Winona-of-the-Camp-Fire
 gutenberg_issued: '2011-08-26'
 gutenberg_type: Text
 identifiers:
